@@ -1,0 +1,90 @@
+.
+{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.top{
+   padding: 0 8px;
+   padding-top: 8px;
+   padding-right: 8px;
+   padding-bottom: 8px;
+   padding-left: 8px;
+   text-align: left;
+   font-size: 13px;
+   font-family: "Trebuchet MS",Arial,Sans;
+   line-height: 24px;
+   color: black;
+   border-bottom: solid 1px #BBB;
+   background-color: white;
+   background-image: url(creamgray.jpg);
+   background-size: 100%;
+   background-repeat-x: no-repeat;
+   background-repeat-y: no-repeat;
+}
+
+aside{
+	background-image: url(lcourses.jpg);
+	border-color: 4px black;
+	width: 50%;
+	margin-right: 50%;
+	margin-left: 20%;
+}
+
+aside h1{
+	color: #fff;
+}
+
+aside p{
+	color: #fff;
+}
+h1{
+	font-size: 40px;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 40px 0;
+}
+
+p{
+	margin: 15px 0;
+	font-size: 25px;
+}
+
+ul{
+	font-size: 25px;
+}
+
+input{
+	font-size: 15px;
+	padding: 15px 10px;
+	width: 100%;
+	border: 0;
+	border-radius: 5px;
+	outline: none;
+}
+
+button{
+	font-size: 18px;
+	font-weight: bold;
+	margin: 20px 0;
+	padding: 10px 15px;
+	border-radius: 5px;
+	background-color: #fff;
+}
+
+button:hover {
+	color: orangered;
+}
+
+.bottom{
+   width: 100%;
+   position: relative;
+   bottom: 5px;
+   background-color: #333;
+   color: #fff;
+   text-align: center;
+   padding: 1.2rem;
+   margin-top: 4%;
+   
+}
